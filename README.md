@@ -6,6 +6,7 @@ Python • SQL Server • Power BI • Google Slides
 This project analyzes customer shopping behavior using a structured end‑to‑end data analytics workflow. It includes loading data in Python, performing exploratory analysis using SQL queries on Microsoft SQL Server, building an interactive Power BI dashboard, creating a business insights report, and preparing a presentation in Google Slides.
 
 📁 Dataset
+
 Total Rows: 3,900
 
 Columns: 18
@@ -21,6 +22,7 @@ Shopping behavior (Discounts, Previous Purchases, Frequency, Review Rating, Ship
 Missing Values: 37 review ratings (handled during cleaning)
 
 🛠 Tools & Technologies
+
 Python: pandas, numpy
 
 SQL Server: T‑SQL queries for business analysis
@@ -34,6 +36,7 @@ Jupyter Notebook: EDA and data preparation
 🔄 Project Steps
 
 1. Data Loading & Cleaning (Python)
+
 Loaded raw dataset
 
 Checked structure and summary statistics
