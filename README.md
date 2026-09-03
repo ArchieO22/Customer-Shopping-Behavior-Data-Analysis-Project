@@ -1,6 +1,8 @@
 
 📊 Customer Shopping Behavior Analysis
 Python • SQL Server • Power BI • Google Slides
+
+
 📌 Overview
 This project analyzes customer shopping behavior using a structured end‑to‑end data analytics workflow. It includes loading data in Python, performing exploratory analysis using SQL queries on Microsoft SQL Server, building an interactive Power BI dashboard, creating a business insights report, and preparing a presentation in Google Slides.
 
@@ -31,6 +33,7 @@ Google Slides: Final presentation
 Jupyter Notebook: EDA and data preparation
 
 🔄 Project Steps
+
 1. Data Loading & Cleaning (Python)
 Loaded raw dataset
 
@@ -43,6 +46,7 @@ Standardized column names
 Created new features (age groups, purchase frequency)
 
 2. Exploratory Data Analysis (SQL Server)
+   
 Revenue analysis by gender and age group
 
 Product performance and ratings
@@ -71,12 +75,12 @@ Summarized insights from Python, SQL, and Power BI
 
 Highlighted key business findings and recommendations
 
-5. Presentation (Google Slides)
+5. Presentation 
 Designed a clean, executive‑ready slide deck
 
 Included visuals, insights, and recommendations
 
-📊 Key Results (4–5 bullets)
+📊 Key Results:
 Male customers generated higher total revenue than female customers
 
 Young Adults contributed the highest revenue among all age groups
