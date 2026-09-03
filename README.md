@@ -2,7 +2,6 @@
 📊 Customer Shopping Behavior Analysis
 Python • SQL Server • Power BI • Google Slides
 
-
 📌 Overview
 This project analyzes customer shopping behavior using a structured end‑to‑end data analytics workflow. It includes loading data in Python, performing exploratory analysis using SQL queries on Microsoft SQL Server, building an interactive Power BI dashboard, creating a business insights report, and preparing a presentation in Google Slides.
 
